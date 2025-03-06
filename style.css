@@ -1,0 +1,33 @@
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  text-transform: uppercase;
+  ;
+}
+
+* {
+  background: black;
+  text-align: center;
+}
+
+/* Although above works but perfer this below
+body {
+  background: black;
+  text-align: center;
+}
+*/
+
+p {
+  color: white;
+}
+div {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+}
+img {
+  border: 5px solid white;
+  width: 100%;
+}
